@@ -34,6 +34,16 @@ To add a new quote to the database, use the POST method and send a raw JSON obje
 
 Example POST request using Postman, Jmeter, or any API testing tool:
 
+Here's an example of how you can contribute by adding more quotes to the MongoDB database using the provided POST method:
+
+POST https://us-east-1.aws.data.mongodb-api.com/app/islamic-quote-api-kuwdp/endpoint/islamicquote
+{
+    "name": "The strongest among you is the one who controls his anger.",
+    "author": "Prophet Muhammad"
+}
+
+Feel free to add your own quotes by replacing the "name" and "author" fields with the content you'd like to contribute. Thank you for contributing to Islamic-quote.com!
+
 ```http
 POST https://us-east-1.aws.data.mongodb-api.com/app/islamic-quote-api-kuwdp/endpoint/islamicquote
 {
@@ -41,9 +51,6 @@ POST https://us-east-1.aws.data.mongodb-api.com/app/islamic-quote-api-kuwdp/endp
     "author": "Prophet Muhammad"
 }
 
-
-
-sss
 
 
 
