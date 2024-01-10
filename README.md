@@ -39,7 +39,7 @@ POST https://us-east-1.aws.data.mongodb-api.com/app/islamic-quote-api-kuwdp/endp
 {
     "name": "He, who wishes to enter paradise at the best gate, must please his father and mother.",
     "author": "Prophet Muhammad"
-}
+}```
 
 
 Here's an example of how you can contribute by adding more quotes to the MongoDB database using the provided POST method:
