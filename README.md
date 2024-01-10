@@ -42,8 +42,8 @@ POST https://us-east-1.aws.data.mongodb-api.com/app/islamic-quote-api-kuwdp/endp
 }
 
 
-**Here's an example of how you can contribute by adding more quotes to the MongoDB database using the provided POST method:
-**
+Here's an example of how you can contribute by adding more quotes to the MongoDB database using the provided POST method:
+
 POST https://us-east-1.aws.data.mongodb-api.com/app/islamic-quote-api-kuwdp/endpoint/islamicquote
 {
     "name": "The strongest among you is the one who controls his anger.",
